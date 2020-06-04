@@ -9,6 +9,7 @@ age = input()#takes age input
 print('Your age will be '+str((int(age)+1))+' after one year')
 
 """
+NOTE:
 I learned nothing new in this day but I reviewed the things I know already.
 
 Things done in this day
