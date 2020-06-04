@@ -1,0 +1,7 @@
+- A scope can be thought of as an area of source code , and as a container of variables
+- The global scope is code outside of all functions.Variables assigned here are global variables.
+- Each function's code is in its own local scope.Variable assigned here are local variables.
+- Code in the global scope cannot use any local variables.
+- Code in a function's local scope cannot use variables in any other function's local scope.
+- If there's an assignment statement(eg: a =2) for a variable in a function , then that is a local variable
+- Other important points are also given as comment in example1.py file
