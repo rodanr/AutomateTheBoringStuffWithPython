@@ -1,0 +1,2 @@
+This lesson contains simple guessing game which you can analyse easily if you have understood previous lessons.
+Oh Yeah! This lesson is a task haha!!
