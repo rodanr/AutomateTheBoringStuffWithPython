@@ -1,0 +1,4 @@
+-  A divide-by-zero error happens when python divides a number by zero
+- Errors cause the program to crash
+- An error that happens inside a try block will cause code in the except block to execute.That code can handle
+  the error or display a message to the user so that the program can keep going.
